@@ -47,4 +47,5 @@ The last command will open your browser for you to start working. To open the tu
 ## Acknowledgments
 
 Environments are based on OpenAI Gym: https://github.com/openai/gym
+
 Material based on the previous version of the course, provided by Luca Marzari - luca.marzari@univr.it
