@@ -1,6 +1,6 @@
 # Planning-Lab
 
-Code for the Planning lab of *Planning and Automated Reasoning* course, MSc degree in Artificial Intelligence 2022/2023 of the University of Verona
+Code for the Planning lab of *Planning and Automated Reasoning* course, MSc degree in Artificial Intelligence 2023/2024, University of Verona
 
 ## Setup 
 
@@ -19,7 +19,7 @@ Code for the Planning lab of *Planning and Automated Reasoning* course, MSc degr
      - Install Git: download [here](https://gitforwindows.org/)
 
 3. Setup Conda environment:
-   - `git clone https://github.com/LM095/Planning-Lab`
+   - `git clone https://github.com/vrncst/PlanningLab`
    - `conda env create -f tools/planning-lab-env.yml`
 
    
@@ -39,7 +39,7 @@ The last command will open your browser for you to start working. To open the tu
 
 ## Authors
 
-*  **Luca Marzari** - luca.marzari@univr.it
+*  **Celeste Veronese** - celeste.veronese@univr.it
 *  **Alessandro Farinelli** - alessandro.farinelli@univr.it
 
 
@@ -47,3 +47,4 @@ The last command will open your browser for you to start working. To open the tu
 ## Acknowledgments
 
 Environments are based on OpenAI Gym: https://github.com/openai/gym
+Material based on the previous version of the course, provided by Luca Marzari - luca.marzari@univr.it
